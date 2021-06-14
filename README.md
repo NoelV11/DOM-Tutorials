@@ -2,17 +2,20 @@
 
 This repository is dedicated to learners wanting to get started in DOM Interface programming.The content provided here are based on the concepts of DOM,taught to me in the course 'Internet & Web Programming' in university
 
-Resources Used:-
+##Resources Used:-
 
-XAMPP Web Server
+- XAMPP Web Server
 
-Brackets IDE
+- Brackets IDE
 
-Features:-
+##Features:-
 
 Though DOM Programming is similar to JavaScript,I personally found JavaScript much more easier to implement and understand.
 
-Example-MouseFunctions.html aims to implement various functions provided by a mouse's interface with the webpage,using DOM language and is similar to the functions used by JavaScript
+Example:-
+I will be demonstrating the functionality of MouseFunctions.html 
+
+It aims to implement various functions provided by a mouse's interface with the webpage,using DOM language and is similar to the functions used by JavaScript
 
 Initial Appearance
 ![One](https://user-images.githubusercontent.com/77625109/121888605-d24aa480-cd35-11eb-9749-878529c054e5.png)
@@ -36,7 +39,7 @@ Functionality of the Repository:-
 - Click on the each to file to view it's practical demonstration
 
 
-Improvements:-
+##Improvements:-
 
 I am open towards learning more concepts in DOM,to enhance my Web Programming knowledge.What's included in here is pretty limited
 

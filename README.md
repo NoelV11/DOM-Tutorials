@@ -27,13 +27,13 @@ Functionality of the Repository:-
 
 ->To run on your machine:-
 
-Download the codes (.html) pages from this repository
+-Download the codes (.html) pages from this repository
 
-Download and configure the XAMPP Server
+-Download and configure the XAMPP Server
 
-Move the downloaded files to the 'htdocs' folder under C:\XAMPP
+-Move the downloaded files to the 'htdocs' folder under C:\XAMPP
 
-Click on the each to file to view it's practical demonstration
+-Click on the each to file to view it's practical demonstration
 
 
 Improvements:-

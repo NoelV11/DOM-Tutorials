@@ -2,13 +2,13 @@
 
 This repository is dedicated to learners wanting to get started in DOM Interface programming.The content provided here are based on the concepts of DOM,taught to me in the course 'Internet & Web Programming' in university
 
-##Resources Used:-
+## Resources Used:-
 
 - XAMPP Web Server
 
 - Brackets IDE
 
-##Features:-
+## Features:-
 
 Though DOM Programming is similar to JavaScript,I personally found JavaScript much more easier to implement and understand.
 
@@ -26,7 +26,7 @@ After clicking on the text,the person interacting with the webpage,gets an alert
 
 Hop on to the repository to learn more tricks!
 
-Functionality of the Repository:-
+## Functionality of the Repository:-
 
 ->To run on your machine:-
 
@@ -39,7 +39,7 @@ Functionality of the Repository:-
 - Click on the each to file to view it's practical demonstration
 
 
-##Improvements:-
+## Improvements:-
 
 I am open towards learning more concepts in DOM,to enhance my Web Programming knowledge.What's included in here is pretty limited
 

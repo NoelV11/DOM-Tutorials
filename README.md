@@ -1,6 +1,8 @@
 # DOM-Tutorials
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/NoelV11/DOM-Tutorials)
+![GitHub top language](https://img.shields.io/github/languages/top/NoelV11/DOM-Tutorials)
+
 
 This repository is dedicated to learners wanting to get started in DOM Interface programming.The content provided here are based on the concepts of DOM,taught to me in the course 'Internet & Web Programming' in university
 
